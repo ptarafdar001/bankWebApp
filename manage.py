@@ -2,8 +2,8 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-import django_heroku
-from decouple import config
+#import django_heroku
+#from decouple import config
 
 
 def main():
